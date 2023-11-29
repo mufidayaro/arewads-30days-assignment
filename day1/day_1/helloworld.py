@@ -1,4 +1,5 @@
 #Exercise 1
+
 #Python --version
 #Exercise 2
 a = 3
